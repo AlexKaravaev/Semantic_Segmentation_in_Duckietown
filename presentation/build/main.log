@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.10)  10 APR 2019 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.10)  10 APR 2019 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1128,32 +1128,24 @@ Package: pgfpages 2011/01/05 ver 0.02
 \pgfpages@shipoutbox=\box82
 )
 \pgfpages@box@1=\box83
-LaTeX Font Info:    Try loading font information for U+msa on input line 71.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 71.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (build/main.aux)
+(build/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1221,7 +1213,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box85
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 62.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1231,9 +1223,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count368
 )
-LaTeX Info: Redefining \ref on input line 85.
-LaTeX Info: Redefining \pageref on input line 85.
-LaTeX Info: Redefining \nameref on input line 85.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
 
 (build/main.out) (build/main.out)
 \@outlinefile=\write6
@@ -1269,16 +1261,13 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 85.
+. Activating mapping `default' on line 62.
 .................................................
 
 (build/main.nav)
-Overfull \hbox (32.39032pt too wide) in paragraph at lines 85--85
+Overfull \hbox (32.39032pt too wide) in paragraph at lines 62--62
  [][][][]  
  []
-
-
-Overfull \vbox (36.43053pt too high) has occurred while \output is active []
 
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1293,7 +1282,17 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 [2
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (76.71811pt too wide) in paragraph at lines 113--113
+LaTeX Font Info:    Try loading font information for U+msa on input line 90.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 90.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (76.71811pt too wide) in paragraph at lines 90--90
 []\OT1/cmr/m/n/10.95 https://www.youtube.com/watch?v=qWl9idsCuLQ  
  []
 
@@ -1312,10 +1311,10 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 [4
 
 ]
-<fig/SS_AI.pdf, id=89, 400.49625pt x 314.17375pt>
+<fig/SS_AI.pdf, id=88, 400.49625pt x 314.17375pt>
 File: fig/SS_AI.pdf Graphic file (type pdf)
 <use fig/SS_AI.pdf>
-Package pdftex.def Info: fig/SS_AI.pdf  used on input line 138.
+Package pdftex.def Info: fig/SS_AI.pdf  used on input line 115.
 (pdftex.def)             Requested size: 102.68701pt x 80.55188pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1332,10 +1331,10 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 [6
 
  <./fig/SS_AI.pdf>]
-<fig/meme.jpeg, id=114, 622.325pt x 350.30875pt>
+<fig/meme.jpeg, id=113, 622.325pt x 350.30875pt>
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1347,7 +1346,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 ]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1359,7 +1358,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
  <./fig/meme.jpeg>]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1371,7 +1370,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 ]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1383,7 +1382,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 ]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1395,7 +1394,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 ]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1407,7 +1406,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 ]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1419,7 +1418,7 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
 ]
 File: fig/meme.jpeg Graphic file (type jpg)
 <use fig/meme.jpeg>
-Package pdftex.def Info: fig/meme.jpeg  used on input line 170.
+Package pdftex.def Info: fig/meme.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 136.91603pt x 77.06816pt.
 
 Overfull \hbox (32.39032pt too wide) has occurred while \output is active
@@ -1448,18 +1447,18 @@ Overfull \hbox (32.39032pt too wide) has occurred while \output is active
  [16
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
  (build/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
  32309 strings out of 492982
  651919 string characters out of 6134896
- 778036 words of memory out of 5000000
+ 775957 words of memory out of 5000000
  35286 multiletter control sequences out of 15000+600000
  535804 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1467,12 +1466,11 @@ Here is how much of TeX's memory you used:
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss10.pfb>
-Output written on build/main.pdf (15 pages, 189504 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on build/main.pdf (15 pages, 178960 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
+ 200 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
  38 named destinations out of 1000 (max. 500000)
  139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
