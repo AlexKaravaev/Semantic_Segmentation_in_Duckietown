@@ -66,9 +66,7 @@
 \end{frame}
 
 % These three lines create an automatically generated table of contents.
-\begin{frame}{Outline}
-  \tableofcontents
-\end{frame}
+\frame{\tableofcontents}
 
 \section{Introduction}
 
@@ -92,7 +90,7 @@ What is semantic segmentation
 \subsection{Problem statement}
 \begin{frame}{Problem statement}
 
-Get the accurate neural network for semantic segmentation for DuckieTown,
+Get the accurate neural network for semantic segmentation for real DuckieTown, using only simulator.
 
 \end{frame}
 
@@ -149,11 +147,30 @@ Get the accurate neural network for semantic segmentation for DuckieTown,
     \subsection{Possible SW architecture}
     \begin{frame}{Possible SW architecture}
     % PIPELINE DIAGRAMS
-    Sw part
+        \includegraphics[width=\textwidth]{fig/Duckietown.png}
     \end{frame}
 
 
 \section{Conclusion}
+\begin{frame}{Done and todo's}
+    \begin{columns}
+        \column{.5\textwidth}
+        Done:
+        \begin{itemize}
+            \item Run the simulator
+            \item Collect usual ros-bag data
+        \end{itemize}
+        \includegraphics[width=\textwidth]{fig/example.jpg}
+        \column{.5\textwidth}
+        To do:
+        \begin{itemize}
+            \item Choose the best network model
+            \item Collect labeled data
+            \item Train and deploy the network
+        \end{itemize}
+        \includegraphics[width=\textwidth]{fig/semantic_arch.jpeg}
+    \end{columns}
+\end{frame}
 \begin{frame}{Conclusion}
     \Huge \center Make DuckieTown great again!
     \includegraphics[height=4cm]{fig/duckie.jpg}
